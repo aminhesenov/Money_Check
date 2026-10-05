@@ -1,0 +1,17 @@
+D:\ASP.NET\PulXırdalama\PulXırdalama\bin\Debug\net9.0-windows\PulXırdalama.exe
+D:\ASP.NET\PulXırdalama\PulXırdalama\bin\Debug\net9.0-windows\PulXırdalama.deps.json
+D:\ASP.NET\PulXırdalama\PulXırdalama\bin\Debug\net9.0-windows\PulXırdalama.runtimeconfig.json
+D:\ASP.NET\PulXırdalama\PulXırdalama\bin\Debug\net9.0-windows\PulXırdalama.dll
+D:\ASP.NET\PulXırdalama\PulXırdalama\bin\Debug\net9.0-windows\PulXırdalama.pdb
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.Form1.resources
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.Properties.Resources.resources
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.csproj.GenerateResource.cache
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.AssemblyInfoInputs.cache
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.AssemblyInfo.cs
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.csproj.CoreCompileInputs.cache
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.dll
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\refint\PulXırdalama.dll
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.pdb
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\PulXırdalama.genruntimeconfig.cache
+D:\ASP.NET\PulXırdalama\PulXırdalama\obj\Debug\net9.0-windows\ref\PulXırdalama.dll
